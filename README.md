@@ -68,11 +68,19 @@ $ git clone https://github.com/miguelgonrod/Taller-RAS-Colombia
 $ cd Taller-RAS-Colombia
 ```
 
-Now you need to run the container using the script I provided (I haven't checked it on windows) or using docker build and docker run:
+Now if you are using ubuntu you need to run the container using the script I provided or using docker build and docker run:
 ```
 $ chmod u+x run.sh
 $ ./run.sh
 ```
+
+If you are on windows run this commands on Docker desktop terminal:
+```
+$ docker build -f build/rosJazzy.Dockerfile -t rosjazzyimage .
+$ docker run -it -v ${PWD}/app:/home/app rosjazzyimage
+```
+
+
 wait for it to compile and run, and after you are inside the container compile workspace:
 ```
 $ cd /app/ros2_ws

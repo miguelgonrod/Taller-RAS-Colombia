@@ -1,8 +1,0 @@
-{
-  "package_name": "std_srvs",
-  "non_idl_tuples": [
-    "/home/miguel/microros_ws/src/ros2/common_interfaces/std_srvs:srv/Empty.srv",
-    "/home/miguel/microros_ws/src/ros2/common_interfaces/std_srvs:srv/SetBool.srv",
-    "/home/miguel/microros_ws/src/ros2/common_interfaces/std_srvs:srv/Trigger.srv"
-  ]
-}

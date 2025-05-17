@@ -1,9 +1,0 @@
-{
-  "package_name": "trajectory_msgs",
-  "non_idl_tuples": [
-    "/home/miguel/microros_ws/src/ros2/common_interfaces/trajectory_msgs:msg/JointTrajectory.msg",
-    "/home/miguel/microros_ws/src/ros2/common_interfaces/trajectory_msgs:msg/JointTrajectoryPoint.msg",
-    "/home/miguel/microros_ws/src/ros2/common_interfaces/trajectory_msgs:msg/MultiDOFJointTrajectory.msg",
-    "/home/miguel/microros_ws/src/ros2/common_interfaces/trajectory_msgs:msg/MultiDOFJointTrajectoryPoint.msg"
-  ]
-}

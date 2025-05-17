@@ -1,0 +1,19 @@
+{
+  "package_name": "service_msgs",
+  "output_dir": "/home/miguel/microros_ws/build/service_msgs/rosidl_typesupport_microxrcedds_cpp/service_msgs",
+  "template_dir": "/home/miguel/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource",
+  "idl_tuples": [
+    "/home/miguel/microros_ws/build/service_msgs/rosidl_adapter/service_msgs:msg/ServiceEventInfo.idl"
+  ],
+  "target_dependencies": [
+    "/home/miguel/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/lib/rosidl_typesupport_microxrcedds_cpp/rosidl_typesupport_microxrcedds_cpp",
+    "/home/miguel/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/lib/python3.12/site-packages/rosidl_typesupport_microxrcedds_cpp/__init__.py",
+    "/home/miguel/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/idl__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/miguel/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/idl__type_support_cpp.cpp.em",
+    "/home/miguel/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/msg__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/miguel/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/msg__type_support_cpp.cpp.em",
+    "/home/miguel/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/srv__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/miguel/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/srv__type_support_cpp.cpp.em",
+    "/home/miguel/microros_ws/build/service_msgs/rosidl_adapter/service_msgs/msg/ServiceEventInfo.idl"
+  ]
+}

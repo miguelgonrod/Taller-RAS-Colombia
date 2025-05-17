@@ -1,0 +1,12 @@
+from example_interfaces.srv._add_two_ints import AddTwoInts  # noqa: F401
+from example_interfaces.srv._add_two_ints import AddTwoInts_Event  # noqa: F401
+from example_interfaces.srv._add_two_ints import AddTwoInts_Request  # noqa: F401
+from example_interfaces.srv._add_two_ints import AddTwoInts_Response  # noqa: F401
+from example_interfaces.srv._set_bool import SetBool  # noqa: F401
+from example_interfaces.srv._set_bool import SetBool_Event  # noqa: F401
+from example_interfaces.srv._set_bool import SetBool_Request  # noqa: F401
+from example_interfaces.srv._set_bool import SetBool_Response  # noqa: F401
+from example_interfaces.srv._trigger import Trigger  # noqa: F401
+from example_interfaces.srv._trigger import Trigger_Event  # noqa: F401
+from example_interfaces.srv._trigger import Trigger_Request  # noqa: F401
+from example_interfaces.srv._trigger import Trigger_Response  # noqa: F401

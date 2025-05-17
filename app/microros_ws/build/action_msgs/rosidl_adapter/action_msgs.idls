@@ -1,0 +1,4 @@
+/home/miguel/microros_ws/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalInfo.idl
+/home/miguel/microros_ws/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatus.idl
+/home/miguel/microros_ws/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatusArray.idl
+/home/miguel/microros_ws/build/action_msgs/rosidl_adapter/action_msgs:srv/CancelGoal.idl

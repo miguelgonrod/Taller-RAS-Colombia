@@ -1,0 +1,12 @@
+{
+  "package_name": "statistics_msgs",
+  "output_dir": "/home/miguel/microros_ws/build/statistics_msgs/rosidl_generator_type_description/statistics_msgs",
+  "idl_tuples": [
+    "/home/miguel/microros_ws/build/statistics_msgs/rosidl_adapter/statistics_msgs:msg/MetricsMessage.idl",
+    "/home/miguel/microros_ws/build/statistics_msgs/rosidl_adapter/statistics_msgs:msg/StatisticDataPoint.idl",
+    "/home/miguel/microros_ws/build/statistics_msgs/rosidl_adapter/statistics_msgs:msg/StatisticDataType.idl"
+  ],
+  "include_paths": [
+    "builtin_interfaces:/home/miguel/microros_ws/install/builtin_interfaces/share/builtin_interfaces"
+  ]
+}

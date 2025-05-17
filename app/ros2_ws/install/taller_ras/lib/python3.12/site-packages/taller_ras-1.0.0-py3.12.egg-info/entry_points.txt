@@ -1,0 +1,3 @@
+[console_scripts]
+publicador = taller_ras.publicador:main
+suscriptor = taller_ras.suscriptor:main

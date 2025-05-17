@@ -1,0 +1,15 @@
+{
+  "package_name": "nav_msgs",
+  "non_idl_tuples": [
+    "/home/miguel/microros_ws/src/ros2/common_interfaces/nav_msgs:msg/Goals.msg",
+    "/home/miguel/microros_ws/src/ros2/common_interfaces/nav_msgs:msg/GridCells.msg",
+    "/home/miguel/microros_ws/src/ros2/common_interfaces/nav_msgs:msg/MapMetaData.msg",
+    "/home/miguel/microros_ws/src/ros2/common_interfaces/nav_msgs:msg/OccupancyGrid.msg",
+    "/home/miguel/microros_ws/src/ros2/common_interfaces/nav_msgs:msg/Odometry.msg",
+    "/home/miguel/microros_ws/src/ros2/common_interfaces/nav_msgs:msg/Path.msg",
+    "/home/miguel/microros_ws/src/ros2/common_interfaces/nav_msgs:srv/GetMap.srv",
+    "/home/miguel/microros_ws/src/ros2/common_interfaces/nav_msgs:srv/GetPlan.srv",
+    "/home/miguel/microros_ws/src/ros2/common_interfaces/nav_msgs:srv/LoadMap.srv",
+    "/home/miguel/microros_ws/src/ros2/common_interfaces/nav_msgs:srv/SetMap.srv"
+  ]
+}

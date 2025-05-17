@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/taller_ras/taller_ras.egg-info/PKG-INFO
+../../build/taller_ras/taller_ras.egg-info/SOURCES.txt
+../../build/taller_ras/taller_ras.egg-info/dependency_links.txt
+../../build/taller_ras/taller_ras.egg-info/entry_points.txt
+../../build/taller_ras/taller_ras.egg-info/requires.txt
+../../build/taller_ras/taller_ras.egg-info/top_level.txt
+../../build/taller_ras/taller_ras.egg-info/zip-safe
+resource/taller_ras
+taller_ras/__init__.py
+taller_ras/publicador.py
+taller_ras/suscriptor.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
